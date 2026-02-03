@@ -22,8 +22,8 @@ et d’analyser les tendances de consommation à travers différents indicateurs
 - Étudiants (gestion de budget)
 
 ## 🛠️ Technologies (prévisionnelles)
-- Frontend : React / Vue
-- Backend : Node.js (NestJS) ou Django
+- Frontend : React
+- Backend : Node.js (NestJS) 
 - Base de données : PostgreSQL / SQLite
 - Visualisation : Chart.js / Recharts
 
